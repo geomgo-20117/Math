@@ -12,7 +12,7 @@ st.write('음수?? 어렵지 않아!')
 #      st.write('- 양수: (+) / 음수: (-) 부호가 붙음')
 #      st.write('- 부호: (+)는 생략 가능 /(-)는 생략 불가')
 #with col2:
-#      st.image('이미지.PNG')
+#      st.image('수학이미지.PNG')
 #a = st.number_input('____________', value= ____)  
 
 # 버튼 생성 및 동작
